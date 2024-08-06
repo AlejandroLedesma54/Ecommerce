@@ -2,7 +2,7 @@ import { Sequelize } from 'sequelize-typescript';
 import dotenv from 'dotenv';
 import { Cart, Order, Permission, Product, ProductCart, Role, User } from '../models';
 
-
+º12º12º12
 dotenv.config();
 
 export const SECRET_KEY = process.env.SECRET_KEY || 'default_secret_key';
